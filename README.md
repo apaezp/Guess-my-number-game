@@ -1,1 +1,2 @@
-# This is my first project created using Javascript! It's a game in which you should guess the number choosing between a range of 1 to 20. 
+# This is my first project created using Javascript! 
+It's a game in which you should guess the number choosing between a range of 1 to 20.
