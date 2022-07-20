@@ -1,4 +1,4 @@
-# This is my first project created using Javascript! 
+# Guess my number Game!
 It's a game in which you should guess the secret number between a range of 1 to 20.
 
 Check the github page and play it yourself!
